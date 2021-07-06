@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **none at this moment**
 
-- 🌱 I’m currently learning **SQL, NoSQL, API**
+- 🌱 I’m currently learning **Data Engineer things**
 
 - 📫 How to reach me **mateusleal2012@hotmail.com**
 
